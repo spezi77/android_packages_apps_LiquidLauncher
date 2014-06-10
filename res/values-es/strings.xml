@@ -19,8 +19,8 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="application_name" msgid="5181331383435256801">"Launcher3"</string>
-    <string name="home" msgid="7658288663002113681">"Home"</string>
+    <string name="application_name">Launcher-Liquid</string>
+    <string name="home" msgid="7658288663002113681">"Inicio"</string>
     <string name="uid_name" msgid="7820867637514617527">"Aplicaciones básicas de Android"</string>
     <string name="folder_name" msgid="7371454440695724752"></string>
     <string name="activity_not_found" msgid="8071924732094499514">"La aplicación no está instalada."</string>
