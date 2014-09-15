@@ -42,9 +42,9 @@
   <string name="out_of_space">No hay más espacio en esta pantalla de inicio.</string>
   <string name="hotseat_out_of_space">No hay más espacio en la bandeja de favoritos</string>
   <string name="invalid_hotseat_item">Este widget es demasiado grande para la bandeja de favoritos</string>
-  <string name="shortcut_installed">"Se ha creado el acceso directo \"<xliff:g id="name">%s</xliff:g>\"."</string>
-  <string name="shortcut_uninstalled">"Se ha eliminado el acceso directo \"<xliff:g id="name">%s</xliff:g>\"."</string>
-  <string name="shortcut_duplicate">"El acceso directo \"<xliff:g id="name">%s</xliff:g>\" ya existe."</string>
+  <string name="shortcut_installed">Se ha creado el acceso directo \"<xliff:g id="name">%s</xliff:g>\".</string>
+  <string name="shortcut_uninstalled">Se ha eliminado el acceso directo \"<xliff:g id="name">%s</xliff:g>\".</string>
+  <string name="shortcut_duplicate">El acceso directo \"<xliff:g id="name">%s</xliff:g>\" ya existe.</string>
   <string name="title_select_shortcut">Elija acceso directo</string>
   <string name="title_select_application">Elija la aplicación</string>
   <string name="all_apps_button_label">Apps</string>

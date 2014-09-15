@@ -42,9 +42,9 @@
   <string name="out_of_space">Tela inicial sem mais espaço.</string>
   <string name="hotseat_out_of_space">Não há mais espaço na barra de favoritos</string>
   <string name="invalid_hotseat_item">Este widget é muito grande para a bandeja de favoritos</string>
-  <string name="shortcut_installed">"Atalho \"<xliff:g id="NAME">%s</xliff:g>\" criado."</string>
-  <string name="shortcut_uninstalled">"Atalho \"<xliff:g id="NAME">%s</xliff:g>\" criado."</string>
-  <string name="shortcut_duplicate">"Atalho \"<xliff:g id="NAME">%s</xliff:g>\" já existe."</string>
+  <string name="shortcut_installed">Atalho \"<xliff:g id="NAME">%s</xliff:g>\" criado.</string>
+  <string name="shortcut_uninstalled">Atalho \"<xliff:g id="NAME">%s</xliff:g>\" criado.</string>
+  <string name="shortcut_duplicate">Atalho \"<xliff:g id="NAME">%s</xliff:g>\" já existe.</string>
   <string name="title_select_shortcut">Selecione o atalho</string>
   <string name="title_select_application">Escolha o app</string>
   <string name="all_apps_button_label">Aplicativos</string>

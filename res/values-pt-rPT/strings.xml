@@ -108,5 +108,5 @@
   <string name="debug_memory_activity">* HPROF</string>
   <string name="widget_button_text">Widgets</string>
   <string name="wallpaper_button_text">Wallpapers</string>
-  <string name="settings_button_text">Settings</string>
+  <string name="settings_button_text">Configurações</string>
 </resources>

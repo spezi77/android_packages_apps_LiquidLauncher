@@ -33,7 +33,7 @@
   <string name="rename_folder_label">Ordnername</string>
   <string name="rename_folder_title">Ordner umbenennen</string>
   <string name="rename_action">OK</string>
-  <string name="cancel_action">zurück</string>
+  <string name="cancel_action">Abbrechen</string>
   <string name="menu_item_add_item">Zum Startbildschirm hinzufügen</string>
   <string name="group_applications">Apps</string>
   <string name="group_shortcuts">Verknüpfungen</string>
@@ -42,9 +42,9 @@
   <string name="out_of_space">Kein Platz mehr auf dieser Startseite.</string>
   <string name="hotseat_out_of_space">Kein Platz mehr im Dock</string>
   <string name="invalid_hotseat_item">Dieses Widget is zu groß für den Dock</string>
-  <string name="shortcut_installed">Shortcut \"<xliff:g id="name" example="Browser">%s</xliff:g>\" created.</string>
-  <string name="shortcut_uninstalled">Shortcut \"<xliff:g id="name" example="Browser">%s</xliff:g>\" was removed.</string>
-  <string name="shortcut_duplicate">Shortcut \"<xliff:g id="name" example="Browser">%s</xliff:g>\" already exists.</string>
+  <string name="shortcut_installed">Vernüpfung \"<xliff:g id="name" example="Browser">%s</xliff:g>\" erstellt.</string>
+  <string name="shortcut_uninstalled">Verknüpfung \"<xliff:g id="name" example="Browser">%s</xliff:g>\" wurde entfernt.</string>
+  <string name="shortcut_duplicate">Verknüpfung \"<xliff:g id="name" example="Browser">%s</xliff:g>\" existiert bereits.</string>
   <string name="title_select_shortcut">Wählen Sie eine Verknüpfung</string>
   <string name="title_select_application">Wählen Sie die app</string>
   <string name="all_apps_button_label">Apps</string>
@@ -94,7 +94,7 @@
   <string name="folder_cling_title">Hier ist ein Ordner</string>
   <string name="folder_cling_create_folder">Um selbst einen zu erstellen, berühren &amp; halten Sie eine App und verschieben Sie sie auf eine andere.</string>
   <string name="cling_dismiss">OK</string>
-  <string name="dummy_custom_cling_error_message">Error: custom workspace layout passed in but custom cling was not overwritten</string>
+  <string name="dummy_custom_cling_error_message">Fehler: Benutzerdefiniertes Arbeitsflächenlayout angewendet, allerdings wurde der benutzerdefinierte Cling nicht übergeschrieben</string>
   <string name="folder_opened">Ordner geöffnet, <xliff:g id="width" example="5"> %1$d </xliff:g> von <xliff:g id="height" example="3"> %2$d </xliff:g></string>
   <string name="folder_tap_to_close">Berühren, um Ordner zu schliesen</string>
   <string name="folder_tap_to_rename">Berühren, um Umnenennung zu speichern</string>

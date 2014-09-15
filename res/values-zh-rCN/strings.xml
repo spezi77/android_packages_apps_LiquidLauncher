@@ -25,7 +25,7 @@
   <string name="widgets_tab_label">小部件</string>
   <string name="widget_adder">小部件</string>
   <string name="toggle_weight_watcher">显示内存</string>
-  <string name="long_press_widget_to_add">Touch &amp; hold to pick up a widget.</string>
+  <string name="long_press_widget_to_add">触摸 &amp; 按住设置一个小部件。</string>
   <string name="market">商店</string>
   <string name="widget_dims_format">%1$d \u00d7 %2$d</string>
   <string name="external_drop_widget_error">不能项目放在这个主屏幕上。</string>
@@ -41,72 +41,68 @@
   <string name="completely_out_of_space">在你的主页屏幕上没有更多的空间。</string>
   <string name="out_of_space">此主页屏幕上没有更多的空间。</string>
   <string name="hotseat_out_of_space">在收藏夹栏中没有更多的空间</string>
-  <string name="invalid_hotseat_item">This widget is too large for the Favorites tray</string>
-  <string name="shortcut_installed">Shortcut \"<xliff:g id="name" example="Browser">%s</xliff:g>\" created.</string>
-  <string name="shortcut_uninstalled">Shortcut \"<xliff:g id="name" example="Browser">%s</xliff:g>\" was removed.</string>
-  <string name="shortcut_duplicate">Shortcut \"<xliff:g id="name" example="Browser">%s</xliff:g>\" already exists.</string>
-  <string name="title_select_shortcut">Choose shortcut</string>
-  <string name="title_select_application">Choose app</string>
+  <string name="invalid_hotseat_item">这个小部件太大</string>
+  <string name="shortcut_installed">快捷方式 \"<xliff:g id="name" example="Browser">%s</xliff:g>\" 已创建。</string>
+  <string name="shortcut_uninstalled">快捷方式 \"<xliff:g id="name" example="Browser">%s</xliff:g>\" 已移除。</string>
+  <string name="shortcut_duplicate">快捷方式 \"<xliff:g id="name" example="Browser">%s</xliff:g>\" 已经存在。</string>
+  <string name="title_select_shortcut">选择快捷方式</string>
+  <string name="title_select_application">选择应用程序</string>
   <string name="all_apps_button_label">应用程序</string>
   <string name="all_apps_home_button_label">首页</string>
-  <string name="delete_zone_label_workspace">Remove</string>
-  <string name="delete_zone_label_all_apps">Uninstall</string>
-  <string name="delete_target_label">Remove</string>
-  <string name="delete_target_uninstall_label">Uninstall</string>
+  <string name="delete_zone_label_workspace">删除</string>
+  <string name="delete_zone_label_all_apps">卸载</string>
+  <string name="delete_target_label">删除</string>
+  <string name="delete_target_uninstall_label">卸载</string>
   <string name="info_target_label">应用程序信息</string>
   <string name="accessibility_search_button">搜索</string>
   <string name="accessibility_voice_search_button">语音搜索</string>
   <string name="accessibility_all_apps_button">应用程序</string>
-  <string name="accessibility_delete_button">Remove</string>
+  <string name="accessibility_delete_button">删除</string>
   <string name="delete_zone_label_all_apps_system_app">卸载更新</string>
-  <string name="cab_menu_delete_app">Uninstall app</string>
-  <string name="cab_menu_app_info">App details</string>
-  <string name="cab_app_selection_text">1 app selected</string>
-  <string name="cab_widget_selection_text">1 widget selected</string>
-  <string name="cab_folder_selection_text">1 folder selected</string>
-  <string name="cab_shortcut_selection_text">1 shortcut selected</string>
-  <string name="permlab_install_shortcut">install shortcuts</string>
-  <string name="permdesc_install_shortcut">Allows an app to add
-        shortcuts without user intervention.</string>
-  <string name="permlab_uninstall_shortcut">uninstall shortcuts</string>
-  <string name="permdesc_uninstall_shortcut">Allows the app to remove
-        shortcuts without user intervention.</string>
-  <string name="permlab_read_settings">read Home settings and shortcuts</string>
-  <string name="permdesc_read_settings">Allows the app to read the settings and
-        shortcuts in Home.</string>
-  <string name="permlab_write_settings">write Home settings and shortcuts</string>
-  <string name="permdesc_write_settings">Allows the app to change the settings and
-        shortcuts in Home.</string>
-  <string name="gadget_error_text">Problem loading widget</string>
-  <string name="uninstall_system_app_text">This is a system app and can\'t be uninstalled.</string>
-  <string name="dream_name">Rocket Launcher</string>
-  <string name="folder_hint_text">Unnamed Folder</string>
-  <string name="workspace_description_format">Home screen %1$d</string>
-  <string name="default_scroll_format">Page %1$d of %2$d</string>
-  <string name="workspace_scroll_format">Home screen %1$d of %2$d</string>
-  <string name="apps_customize_apps_scroll_format">Apps page %1$d of %2$d</string>
-  <string name="apps_customize_widgets_scroll_format">Widgets page %1$d of %2$d</string>
-  <string name="first_run_cling_title">Welcome</string>
-  <string name="first_run_cling_description">Make yourself at home.</string>
-  <string name="first_run_cling_create_screens_hint">Create more screens for apps and folders</string>
-  <string name="migration_cling_title">Copy your app icons</string>
-  <string name="migration_cling_description">Import icons and folders from your old Home screens?</string>
-  <string name="migration_cling_copy_apps">COPY ICONS</string>
-  <string name="migration_cling_use_default">START FRESH</string>
-  <string name="workspace_cling_title">Organize your space</string>
-  <string name="workspace_cling_move_item">Touch &amp; hold background to manage wallpaper, widgets and settings.</string>
-  <string name="folder_cling_title">Here\'s a folder</string>
-  <string name="folder_cling_create_folder">To create one like this, touch &amp; hold an app, then move it over another.</string>
+  <string name="cab_menu_delete_app">卸载应用</string>
+  <string name="cab_menu_app_info">应用信息</string>
+  <string name="cab_app_selection_text">1 选定的应用程序</string>
+  <string name="cab_widget_selection_text">1 选定的小部件</string>
+  <string name="cab_folder_selection_text">1 选定的文件夹</string>
+  <string name="cab_shortcut_selection_text">1 快捷方式选择</string>
+  <string name="permlab_install_shortcut">安装快捷方式</string>
+  <string name="permdesc_install_shortcut">允许应用程序添加快捷方式，无需用户干预。</string>
+  <string name="permlab_uninstall_shortcut">卸载快捷方式</string>
+  <string name="permdesc_uninstall_shortcut">允许应用程序删除快捷方式，无需用户干预。</string>
+  <string name="permlab_read_settings">读取首页设置和快捷方式</string>
+  <string name="permdesc_read_settings">允许应用程序读取的设置和主屏的快捷方式。</string>
+  <string name="permlab_write_settings">编辑首页设置和快捷方式</string>
+  <string name="permdesc_write_settings">允许应用程序读取的设置和主屏的快捷方式。</string>
+  <string name="gadget_error_text">小部件装载有问题..</string>
+  <string name="uninstall_system_app_text">这是一个系统的应用程序，不能被卸载。</string>
+  <string name="dream_name">Rocket 启动器</string>
+  <string name="folder_hint_text">未命名的文件夹</string>
+  <string name="workspace_description_format">主屏幕 %1$d</string>
+  <string name="default_scroll_format">第 %1$d 页，共 %2$d 页</string>
+  <string name="workspace_scroll_format">主屏幕 %1$d 共 %2$d</string>
+  <string name="apps_customize_apps_scroll_format">应用程序页 %1$d 共 %2$d</string>
+  <string name="apps_customize_widgets_scroll_format">小部件页 %1$d 共 %2$d</string>
+  <string name="first_run_cling_title">欢迎!</string>
+  <string name="first_run_cling_description">请别客气。</string>
+  <string name="first_run_cling_create_screens_hint">创建更多的屏幕的应用程序和文件夹</string>
+  <string name="migration_cling_title">复制您的应用图标</string>
+  <string name="migration_cling_description">从您的旧主屏幕导入图标和文件夹吗？</string>
+  <string name="migration_cling_copy_apps">复制图标</string>
+  <string name="migration_cling_use_default">重新开始</string>
+  <string name="workspace_cling_title">组织您的空间</string>
+  <string name="workspace_cling_move_item">长按背景来管理壁纸、窗口小部件和设置。</string>
+  <string name="folder_cling_title">这是文件夹</string>
+  <string name="folder_cling_create_folder">若要创建要给文件夹，请长按应用程序，然后将其移动到另一个应用程序上。</string>
   <string name="cling_dismiss">好的</string>
   <string name="dummy_custom_cling_error_message">Error: custom workspace layout passed in but custom cling was not overwritten</string>
-  <string name="folder_opened">Folder opened, <xliff:g id="width" example="5">%1$d</xliff:g> by <xliff:g id="height" example="3">%2$d</xliff:g></string>
-  <string name="folder_tap_to_close">Touch to close folder</string>
-  <string name="folder_tap_to_rename">Touch to save rename</string>
-  <string name="folder_closed">Folder closed</string>
-  <string name="folder_renamed">Folder renamed to <xliff:g id="name" example="Games">%1$s</xliff:g></string>
-  <string name="folder_name_format">Folder: <xliff:g id="name" example="Games">%1$s</xliff:g></string>
+  <string name="folder_opened">文件夹已打开，<xliff:g id="width" example="5">%1$d</xliff:g> x <xliff:g id="height" example="3">%2$d</xliff:g></string>
+  <string name="folder_tap_to_close">触摸关闭文件夹</string>
+  <string name="folder_tap_to_rename">触摸保存重命名</string>
+  <string name="folder_closed">文件夹已关闭</string>
+  <string name="folder_renamed">文件夹重命名为 <xliff:g id="name" example="Games">%1$s</xliff:g></string>
+  <string name="folder_name_format">文件夹: <xliff:g id="name" example="Games">%1$s</xliff:g></string>
   <string name="debug_memory_activity">* HPROF</string>
   <string name="widget_button_text">小部件</string>
-  <string name="wallpaper_button_text">Wallpapers</string>
-  <string name="settings_button_text">Settings</string>
+  <string name="wallpaper_button_text">壁纸</string>
+  <string name="settings_button_text">设置</string>
 </resources>

@@ -18,7 +18,7 @@
 */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="application_name">LiquidLauncher</string>
+  <string name="application_name">Liquid Launcher</string>
   <string name="home">Kezdőképernyő</string>
   <string name="uid_name">Android rendszeralkalmazások</string>
   <string name="activity_not_found">Alkalmazás nincs telepítve.</string>

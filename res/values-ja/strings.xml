@@ -33,7 +33,7 @@
   <string name="rename_folder_label">Folder name</string>
   <string name="rename_folder_title">Rename folder</string>
   <string name="rename_action">OK</string>
-  <string name="cancel_action">Cancel</string>
+  <string name="cancel_action">キャンセル</string>
   <string name="menu_item_add_item">Add to Home screen</string>
   <string name="group_applications">Apps</string>
   <string name="group_shortcuts">Shortcuts</string>
@@ -108,5 +108,5 @@
   <string name="debug_memory_activity">* HPROF</string>
   <string name="widget_button_text">Widgets</string>
   <string name="wallpaper_button_text">Wallpapers</string>
-  <string name="settings_button_text">Settings</string>
+  <string name="settings_button_text">設定</string>
 </resources>

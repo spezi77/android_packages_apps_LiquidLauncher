@@ -21,92 +21,88 @@
   <string name="application_name">LiquidLauncher</string>
   <string name="home">Home</string>
   <string name="uid_name">Android Core Apps</string>
-  <string name="activity_not_found">App isn\'t installed.</string>
+  <string name="activity_not_found">Ứng dụng chưa được cài đặt.</string>
   <string name="widgets_tab_label">Tiện ích</string>
   <string name="widget_adder">Tiện ích</string>
-  <string name="toggle_weight_watcher">Show Mem</string>
-  <string name="long_press_widget_to_add">Touch &amp; hold to pick up a widget.</string>
-  <string name="market">Shop</string>
+  <string name="toggle_weight_watcher">Hiển thị Mem</string>
+  <string name="long_press_widget_to_add">Chạm và giữ để chọn lên một tiện ích.</string>
+  <string name="market">Cửa hàng</string>
   <string name="widget_dims_format">%1$d \u00d7 %2$d</string>
-  <string name="external_drop_widget_error">Couldn\'t drop item on this Home screen.</string>
-  <string name="external_drop_widget_pick_title">Choose widget to create</string>
-  <string name="rename_folder_label">Folder name</string>
-  <string name="rename_folder_title">Rename folder</string>
+  <string name="external_drop_widget_error">Không thể thả mục trên màn hình chủ này.</string>
+  <string name="external_drop_widget_pick_title">Chọn để tạo ra tiện ích</string>
+  <string name="rename_folder_label">Tên thư mục</string>
+  <string name="rename_folder_title">Đổi tên thư mục</string>
   <string name="rename_action">Ok</string>
-  <string name="cancel_action">Cancel</string>
-  <string name="menu_item_add_item">Add to Home screen</string>
-  <string name="group_applications">Apps</string>
+  <string name="cancel_action">Hủy bỏ</string>
+  <string name="menu_item_add_item">Thêm vào màn hình chủ</string>
+  <string name="group_applications">Ứng dụng</string>
   <string name="group_shortcuts">Lối tắt</string>
   <string name="group_widgets">Tiện ích</string>
-  <string name="completely_out_of_space">No more room on your Home screens.</string>
-  <string name="out_of_space">No more room on this Home screen.</string>
-  <string name="hotseat_out_of_space">No more room in the Favorites tray</string>
-  <string name="invalid_hotseat_item">This widget is too large for the Favorites tray</string>
-  <string name="shortcut_installed">Shortcut \"<xliff:g id="name" example="Browser">%s</xliff:g>\" created.</string>
-  <string name="shortcut_uninstalled">Shortcut \"<xliff:g id="name" example="Browser">%s</xliff:g>\" was removed.</string>
-  <string name="shortcut_duplicate">Shortcut \"<xliff:g id="name" example="Browser">%s</xliff:g>\" already exists.</string>
-  <string name="title_select_shortcut">Choose shortcut</string>
-  <string name="title_select_application">Choose app</string>
-  <string name="all_apps_button_label">Apps</string>
+  <string name="completely_out_of_space">Không có nhiều room trên màn hình Home của bạn.</string>
+  <string name="out_of_space">Không có nhiều room trên màn hình Home này.</string>
+  <string name="hotseat_out_of_space">Không có nhiều room trong khay yêu thích</string>
+  <string name="invalid_hotseat_item">Tiện ích này là quá lớn cho các khay yêu thích</string>
+  <string name="shortcut_installed">Phím tắt \"<xliff:g id="name" example="Browser">%s</xliff:g>\"đã tạo ra.</string>
+  <string name="shortcut_uninstalled">Phím tắt \"<xliff:g id="name" example="Browser">%s</xliff:g>\" đã được gỡ bỏ.</string>
+  <string name="shortcut_duplicate">Phím tắt \"<xliff:g id="name" example="Browser">%s</xliff:g>\" đã tồn tại.</string>
+  <string name="title_select_shortcut">Chọn phím tắt</string>
+  <string name="title_select_application">Chọn ứng dụng</string>
+  <string name="all_apps_button_label">Ứng dụng</string>
   <string name="all_apps_home_button_label">Home</string>
-  <string name="delete_zone_label_workspace">Loại bỏ</string>
-  <string name="delete_zone_label_all_apps">Uninstall</string>
-  <string name="delete_target_label">Loại bỏ</string>
-  <string name="delete_target_uninstall_label">Uninstall</string>
-  <string name="info_target_label">App info</string>
+  <string name="delete_zone_label_workspace">Gỡ bỏ</string>
+  <string name="delete_zone_label_all_apps">Gỡ cài đặt</string>
+  <string name="delete_target_label">Gỡ bỏ</string>
+  <string name="delete_target_uninstall_label">Gỡ cài đặt</string>
+  <string name="info_target_label">Thông tin ứng dụng</string>
   <string name="accessibility_search_button">Search</string>
-  <string name="accessibility_voice_search_button">Voice Search</string>
-  <string name="accessibility_all_apps_button">Apps</string>
-  <string name="accessibility_delete_button">Loại bỏ</string>
-  <string name="delete_zone_label_all_apps_system_app">Uninstall update</string>
-  <string name="cab_menu_delete_app">Uninstall app</string>
-  <string name="cab_menu_app_info">App details</string>
-  <string name="cab_app_selection_text">1 app selected</string>
-  <string name="cab_widget_selection_text">1 widget selected</string>
-  <string name="cab_folder_selection_text">1 folder selected</string>
-  <string name="cab_shortcut_selection_text">1 shortcut selected</string>
-  <string name="permlab_install_shortcut">install shortcuts</string>
-  <string name="permdesc_install_shortcut">Allows an app to add
-        shortcuts without user intervention.</string>
-  <string name="permlab_uninstall_shortcut">uninstall shortcuts</string>
-  <string name="permdesc_uninstall_shortcut">Allows the app to remove
-        shortcuts without user intervention.</string>
-  <string name="permlab_read_settings">read Home settings and shortcuts</string>
-  <string name="permdesc_read_settings">Allows the app to read the settings and
-        shortcuts in Home.</string>
-  <string name="permlab_write_settings">write Home settings and shortcuts</string>
-  <string name="permdesc_write_settings">Allows the app to change the settings and
-        shortcuts in Home.</string>
-  <string name="gadget_error_text">Problem loading widget</string>
-  <string name="uninstall_system_app_text">This is a system app and can\'t be uninstalled.</string>
+  <string name="accessibility_voice_search_button">Tìm kiếm bằng giọng nói</string>
+  <string name="accessibility_all_apps_button">Ứng dụng</string>
+  <string name="accessibility_delete_button">Gỡ bỏ</string>
+  <string name="delete_zone_label_all_apps_system_app">Gỡ cài đặt Cập Nhật</string>
+  <string name="cab_menu_delete_app">Gỡ cài đặt ứng dụng</string>
+  <string name="cab_menu_app_info">Chi tiết ứng dụng</string>
+  <string name="cab_app_selection_text">1 ứng dụng đã chọn</string>
+  <string name="cab_widget_selection_text">1 Tiện ích được chọn</string>
+  <string name="cab_folder_selection_text">1 thư mục được chọn</string>
+  <string name="cab_shortcut_selection_text">1 phím tắt được chọn</string>
+  <string name="permlab_install_shortcut">cài đặt phím tắt</string>
+  <string name="permdesc_install_shortcut">Cho phép một ứng dụng tự thêm các phím tắt mà không có sự can thiệp của người dùng.</string>
+  <string name="permlab_uninstall_shortcut">gỡ cài đặt phím tắt</string>
+  <string name="permdesc_uninstall_shortcut">Cho phép các ứng dụng tự loại bỏ các phím tắt mà không có sự can thiệp của người dùng.</string>
+  <string name="permlab_read_settings">đọc thiết đặt trang Home và các phím tắt</string>
+  <string name="permdesc_read_settings">Cho phép các ứng dụng để đọc các cài đặt và các phím tắt ở trang Home.</string>
+  <string name="permlab_write_settings">viết cài đặt trang Home và các phím tắt</string>
+  <string name="permdesc_write_settings">Cho phép các ứng dụng để thay đổi cài đặt và các phím tắt trong trang Home.</string>
+  <string name="gadget_error_text">Vấn đề tải tiện ích</string>
+  <string name="uninstall_system_app_text">Đây là một ứng dụng hệ thống và không thể bị gỡ cài đặt.</string>
   <string name="dream_name">Rocket Launcher</string>
-  <string name="folder_hint_text">Unnamed Folder</string>
-  <string name="workspace_description_format">Home screen %1$d</string>
-  <string name="default_scroll_format">Page %1$d of %2$d</string>
-  <string name="workspace_scroll_format">Home screen %1$d of %2$d</string>
-  <string name="apps_customize_apps_scroll_format">Apps page %1$d of %2$d</string>
-  <string name="apps_customize_widgets_scroll_format">Widgets page %1$d of %2$d</string>
-  <string name="first_run_cling_title">Welcome</string>
+  <string name="folder_hint_text">Thư mục chưa được đặt tên</string>
+  <string name="workspace_description_format">Màn hình chủ %1$d</string>
+  <string name="default_scroll_format">Trang %1$d của %2$d</string>
+  <string name="workspace_scroll_format">Màn hình chủ %1$d của %2$d</string>
+  <string name="apps_customize_apps_scroll_format">Ứng dụng trang %1$d của %2$d</string>
+  <string name="apps_customize_widgets_scroll_format">Tiện ích trang %1$d của %2$d</string>
+  <string name="first_run_cling_title">Chào mừng</string>
   <string name="first_run_cling_description">Make yourself at home.</string>
-  <string name="first_run_cling_create_screens_hint">Create more screens for apps and folders</string>
-  <string name="migration_cling_title">Copy your app icons</string>
-  <string name="migration_cling_description">Import icons and folders from your old Home screens?</string>
-  <string name="migration_cling_copy_apps">COPY ICONS</string>
-  <string name="migration_cling_use_default">START FRESH</string>
-  <string name="workspace_cling_title">Organize your space</string>
-  <string name="workspace_cling_move_item">Touch &amp; hold background to manage wallpaper, widgets and settings.</string>
-  <string name="folder_cling_title">Here\'s a folder</string>
-  <string name="folder_cling_create_folder">To create one like this, touch &amp; hold an app, then move it over another.</string>
+  <string name="first_run_cling_create_screens_hint">Tạo thêm màn hình cho các ứng dụng và thư mục</string>
+  <string name="migration_cling_title">Sao chép biểu tượng ứng dụng của bạn</string>
+  <string name="migration_cling_description">Nhập các biểu tượng và thư mục từ các màn hình Home cũ của bạn?</string>
+  <string name="migration_cling_copy_apps">SAO CHÉP CÁC BIỂU TƯỢNG</string>
+  <string name="migration_cling_use_default">BẮT ĐẦU LÀM MỚI</string>
+  <string name="workspace_cling_title">Tổ chức không gian của bạn</string>
+  <string name="workspace_cling_move_item">Chạm và giữ nền để quản lý hình nền, tiện ích và các cài đặt.</string>
+  <string name="folder_cling_title">Đây là một thư mục</string>
+  <string name="folder_cling_create_folder">Để tạo ra một cái như thế này, chạm &amp; giữ một ứng dụng, sau đó di chuyển nó qua cái khác.</string>
   <string name="cling_dismiss">Ok</string>
-  <string name="dummy_custom_cling_error_message">Error: custom workspace layout passed in but custom cling was not overwritten</string>
-  <string name="folder_opened">Folder opened, <xliff:g id="width" example="5">%1$d</xliff:g> by <xliff:g id="height" example="3">%2$d</xliff:g></string>
-  <string name="folder_tap_to_close">Touch to close folder</string>
-  <string name="folder_tap_to_rename">Touch to save rename</string>
-  <string name="folder_closed">Folder closed</string>
-  <string name="folder_renamed">Folder renamed to <xliff:g id="name" example="Games">%1$s</xliff:g></string>
-  <string name="folder_name_format">Folder: <xliff:g id="name" example="Games">%1$s</xliff:g></string>
+  <string name="dummy_custom_cling_error_message">Lỗi: việc tùy chỉnh bố trí được thông qua nhưng trong tùy chỉnh bám không được ghi đè</string>
+  <string name="folder_opened">Thư mục đã mở, <xliff:g id="width" example="5"> %1$d </xliff:g> bởi <xliff:g id="height" example="3"> %2$d </xliff:g></string>
+  <string name="folder_tap_to_close">Chạm để đóng thư mục</string>
+  <string name="folder_tap_to_rename">Chạm để lưu đổi tên</string>
+  <string name="folder_closed">Đã đóng Thư mục</string>
+  <string name="folder_renamed">Thư mục được đổi tên thành <xliff:g id="name" example="Games"> %1$s </xliff:g></string>
+  <string name="folder_name_format">Thư mục: <xliff:g id="name" example="Games"> %1$s </xliff:g></string>
   <string name="debug_memory_activity">* HPROF</string>
   <string name="widget_button_text">Tiện ích</string>
-  <string name="wallpaper_button_text">Wallpapers</string>
+  <string name="wallpaper_button_text">Hình nền</string>
   <string name="settings_button_text">Cài đặt</string>
 </resources>

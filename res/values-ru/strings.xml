@@ -18,7 +18,7 @@
 */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="application_name">LiquidLauncher</string>
+  <string name="application_name">Лаунчер</string>
   <string name="home">Домой</string>
   <string name="uid_name">Приложения Android Core</string>
   <string name="activity_not_found">Приложение не установлено.</string>

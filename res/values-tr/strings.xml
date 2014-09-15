@@ -42,9 +42,9 @@
   <string name="out_of_space">Bu ana ekranda yer yok.</string>
   <string name="hotseat_out_of_space">Sık Kullanılanlar tepsisinde yer yok</string>
   <string name="invalid_hotseat_item">Bu widget sık kullanılanlar tepsisi için çok büyük</string>
-  <string name="shortcut_installed">"Kısayol \"<xliff:g id="name">%s</xliff:g>\" oluşturulan."</string>
-  <string name="shortcut_uninstalled">"Kısayol \"<xliff:g id="name">%s</xliff:g>\" oluşturulan."</string>
-  <string name="shortcut_duplicate">"Kısayol \"<xliff:g id="name">%s</xliff:g>\" zaten."</string>
+  <string name="shortcut_installed">Kısayol \"<xliff:g id="name">%s</xliff:g>\" oluşturulan.</string>
+  <string name="shortcut_uninstalled">Kısayol \"<xliff:g id="name">%s</xliff:g>\" oluşturulan.</string>
+  <string name="shortcut_duplicate">Kısayol \"<xliff:g id="name">%s</xliff:g>\" zaten.</string>
   <string name="title_select_shortcut">Kısayol seçin</string>
   <string name="title_select_application">Uyg. seçin</string>
   <string name="all_apps_button_label">Uyglar</string>
