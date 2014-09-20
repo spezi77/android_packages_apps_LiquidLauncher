@@ -25,7 +25,7 @@
   <string name="widgets_tab_label">Widgety</string>
   <string name="widget_adder">Widgety</string>
   <string name="toggle_weight_watcher">Ukázat Mem</string>
-  <string name="long_press_widget_to_add">Dotkněte se tlačítka &amp; podržte tlačítko pro výběr widgetu.</string>
+  <string name="long_press_widget_to_add">Dotkněte se &amp; a podržte pro výběr widgetu.</string>
   <string name="market">Obchod</string>
   <string name="widget_dims_format">%1$d \u00d7 %2$d</string>
   <string name="external_drop_widget_error">Nelze umístit položky na tuto domovskou obrazovku.</string>
@@ -38,9 +38,9 @@
   <string name="group_applications">Aplikace</string>
   <string name="group_shortcuts">Zkratky</string>
   <string name="group_widgets">Widgety</string>
-  <string name="completely_out_of_space">Žádný prostor na vaší domovské obrazovce.</string>
-  <string name="out_of_space">Žádný prostor na této domovské obrazovce.</string>
-  <string name="hotseat_out_of_space">Žádný prostor v panelu Oblíbené</string>
+  <string name="completely_out_of_space">Již není místo na vašich domovských obrazovkách.</string>
+  <string name="out_of_space">Již není místo na této domovské obrazovce.</string>
+  <string name="hotseat_out_of_space">Již není místo v panelu Oblíbené</string>
   <string name="invalid_hotseat_item">Tento widget je moc velký pro panel Oblíbené</string>
   <string name="shortcut_installed">Zástupce \"<xliff:g id="name" example="Browser">%s</xliff:g>\" byl vytvořen.</string>
   <string name="shortcut_uninstalled">Zástupce \"<xliff:g id="name" example="Browser">%s</xliff:g>\" byl odstraněn.</string>
@@ -53,32 +53,32 @@
   <string name="delete_zone_label_all_apps">Odinstalovat</string>
   <string name="delete_target_label">Odstranit</string>
   <string name="delete_target_uninstall_label">Odinstalovat</string>
-  <string name="info_target_label">Informace o aplikace</string>
-  <string name="accessibility_search_button">Hledat</string>
+  <string name="info_target_label">Informace aplikace</string>
+  <string name="accessibility_search_button">Vyhledat</string>
   <string name="accessibility_voice_search_button">Hlasové vyhledávání</string>
   <string name="accessibility_all_apps_button">Aplikace</string>
   <string name="accessibility_delete_button">Odstranit</string>
-  <string name="delete_zone_label_all_apps_system_app">Odinstalování aktualizace</string>
-  <string name="cab_menu_delete_app">Odinstalování aplikace</string>
+  <string name="delete_zone_label_all_apps_system_app">Odinstalovat aktualizaci</string>
+  <string name="cab_menu_delete_app">Odinstalovat aplikaci</string>
   <string name="cab_menu_app_info">Podrobnosti o aplikaci</string>
   <string name="cab_app_selection_text">1 aplikace vybrána</string>
   <string name="cab_widget_selection_text">1 widget vybrán</string>
   <string name="cab_folder_selection_text">1 složka vybrána</string>
   <string name="cab_shortcut_selection_text">1 zástupce vybrán</string>
   <string name="permlab_install_shortcut">Instalace zástupců</string>
-  <string name="permdesc_install_shortcut">Umožňuje aplikaci přidat zástupce bez zásahu uživatele.</string>
+  <string name="permdesc_install_shortcut">Povolit aplikaci přidávat zástupce bez zásahu uživatele.</string>
   <string name="permlab_uninstall_shortcut">odinstalování zástupců</string>
-  <string name="permdesc_uninstall_shortcut">Umožňuje aplikaci odstranit zástupce bez zásahu uživatele.</string>
-  <string name="permlab_read_settings">Pouze čtení nastavení domovské obrazovky a zástupců</string>
-  <string name="permdesc_read_settings">Umožňuje aplikaci pouze číst nastavení a rozložení zástupců na domácí obrazovce.</string>
-  <string name="permlab_write_settings">Změna nastavení domovské obrazovky a zástupců</string>
-  <string name="permdesc_write_settings">Umožňuje aplikaci změnit nastavení a rozložení zástupců na domácí obrazovce.</string>
-  <string name="gadget_error_text">Nastal problém při načítání widgetu</string>
+  <string name="permdesc_uninstall_shortcut">Povolit aplikaci odstraňovat zástupce bez zásahu uživatele.</string>
+  <string name="permlab_read_settings">Číst nastavení domovské obrazovky a zástupců</string>
+  <string name="permdesc_read_settings">Povolit aplikaci číst nastavení a zástupce domovské obrazovky.</string>
+  <string name="permlab_write_settings">Zapsat nastavení a zástupce domovské obrazovky</string>
+  <string name="permdesc_write_settings">Povolit aplikaci měnit nastavení a zástupce domovské obrazovky.</string>
+  <string name="gadget_error_text">Problém při načítání widgetu</string>
   <string name="uninstall_system_app_text">Toto je systémová aplikace a nelze ji odinstalovat.</string>
   <string name="dream_name">Rocket Launcher</string>
-  <string name="folder_hint_text">Nepojmenovaná složka</string>
+  <string name="folder_hint_text">Bezejmenná složka</string>
   <string name="workspace_description_format">Domovská obrazovka %1$d</string>
-  <string name="default_scroll_format">Strana %1$d ze %2$d</string>
+  <string name="default_scroll_format">Strana %1$d z %2$d</string>
   <string name="workspace_scroll_format">Domovská obrazovka %1$d ze %2$d</string>
   <string name="apps_customize_apps_scroll_format">Strana aplikací %1$d ze %2$d</string>
   <string name="apps_customize_widgets_scroll_format">Strana widgetů %1$d ze %2$d</string>
@@ -96,8 +96,8 @@
   <string name="cling_dismiss">OK</string>
   <string name="dummy_custom_cling_error_message">Error: custom workspace layout passed in but custom cling was not overwritten</string>
   <string name="folder_opened">Soubor otevřen, <xliff:g id="width" example="5">%1$d</xliff:g><xliff:g id="height" example="3">%2$d</xliff:g></string>
-  <string name="folder_tap_to_close">Klepněte na tlačítko pro zavření složky</string>
-  <string name="folder_tap_to_rename">Klepněte na tlačítko pro uložení nového názvu</string>
+  <string name="folder_tap_to_close">Dotkněte se pro zavření složky</string>
+  <string name="folder_tap_to_rename">Dotkněte se pro uložení přejmenování</string>
   <string name="folder_closed">Složka uzavřena</string>
   <string name="folder_renamed">Složka přejmenována na <xliff:g id="name" example="Games"> %1$s </xliff:g></string>
   <string name="folder_name_format">Složka: <xliff:g id="name" example="Games"> %1$s </xliff:g></string>
