@@ -43,8 +43,8 @@
   <string name="hotseat_out_of_space">Nincs több hely a Kedvencekben</string>
   <string name="invalid_hotseat_item">A modul túl nagy a Kedvencekben való ehelyezéshez</string>
   <string name="shortcut_installed"><xliff:g id="name" example="Browser">%s</xliff:g> Parancsikon létrehozva.</string>
-  <string name="shortcut_uninstalled">Shortcut \"<xliff:g id="name" example="Browser">%s</xliff:g>\" was removed.</string>
-  <string name="shortcut_duplicate">Shortcut \"<xliff:g id="name" example="Browser">%s</xliff:g>\" already exists.</string>
+  <string name="shortcut_uninstalled">Parancsikon\"<xliff:g id="name" example="Browser">%s</xliff:g>\" eltávolítva.</string>
+  <string name="shortcut_duplicate">Parancsikon \"<xliff:g id="name" example="Browser">%s</xliff:g>\" már létezik.</string>
   <string name="title_select_shortcut">Parancsikon választása</string>
   <string name="title_select_application">Alkalmazás választása</string>
   <string name="all_apps_button_label">Alkalmazások</string>
