@@ -21,7 +21,7 @@
   <string name="application_name">LiquidLauncher</string>
   <string name="home">Home</string>
   <string name="uid_name">Android Core Apps</string>
-  <string name="activity_not_found">App isn\'t installed.</string>
+  <string name="activity_not_found">앱이 설치되지 않았습니다.</string>
   <string name="widgets_tab_label">위젯</string>
   <string name="widget_adder">위젯</string>
   <string name="toggle_weight_watcher">Show Mem</string>

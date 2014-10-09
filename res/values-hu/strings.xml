@@ -49,10 +49,10 @@
   <string name="title_select_application">Alkalmazás választása</string>
   <string name="all_apps_button_label">Alkalmazások</string>
   <string name="all_apps_home_button_label">Kezdőképernyő</string>
-  <string name="delete_zone_label_workspace">Töröl</string>
+  <string name="delete_zone_label_workspace">Törlés</string>
   <string name="delete_zone_label_all_apps">Eltávolít</string>
-  <string name="delete_target_label">Töröl</string>
-  <string name="delete_target_uninstall_label">Eltávolít</string>
+  <string name="delete_target_label">Törlés</string>
+  <string name="delete_target_uninstall_label">Eltávolítás</string>
   <string name="info_target_label">Alkalmazás infó</string>
   <string name="accessibility_search_button">Keresés</string>
   <string name="accessibility_voice_search_button">Hangalapú keresés</string>
