@@ -18,95 +18,92 @@
 */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="application_name">LiquidLauncher</string>
+  <string name="application_name"> 리퀴드런쳐</string>
   <string name="home">Home</string>
-  <string name="uid_name">Android Core Apps</string>
+  <string name="uid_name">안드로이드 코어 애플리케이션</string>
   <string name="activity_not_found">앱이 설치되지 않았습니다.</string>
   <string name="widgets_tab_label">위젯</string>
   <string name="widget_adder">위젯</string>
-  <string name="toggle_weight_watcher">Show Mem</string>
-  <string name="long_press_widget_to_add">Touch &amp; hold to pick up a widget.</string>
-  <string name="market">Shop</string>
-  <string name="widget_dims_format">%1$d \u00d7 %2$d</string>
-  <string name="external_drop_widget_error">Couldn\'t drop item on this Home screen.</string>
-  <string name="external_drop_widget_pick_title">Choose widget to create</string>
-  <string name="rename_folder_label">Folder name</string>
-  <string name="rename_folder_title">Rename folder</string>
+  <string name="toggle_weight_watcher">Show mem</string>
+  <string name="long_press_widget_to_add">위젯 도구를 길게 터치  합니다.</string>
+  <string name="market">상점</string>
+  <string name="widget_dims_format">
+%1$d \u00d7 %2$d</string>
+  <string name="external_drop_widget_error">홈 화면 항목에 삭제 할수 없습니다.</string>
+  <string name="external_drop_widget_pick_title">위젯을 선택해 주세요.</string>
+  <string name="rename_folder_label">폴더 이름</string>
+  <string name="rename_folder_title">폴더 이름을 바꾸시겠습니까?</string>
   <string name="rename_action">예</string>
-  <string name="cancel_action">Cancel</string>
-  <string name="menu_item_add_item">Add to Home screen</string>
-  <string name="group_applications">Apps</string>
+  <string name="cancel_action">취소</string>
+  <string name="menu_item_add_item">홈 화면에 추가 합니다.</string>
+  <string name="group_applications">어플 앱</string>
   <string name="group_shortcuts">바로가기 </string>
   <string name="group_widgets">위젯</string>
-  <string name="completely_out_of_space">No more room on your Home screens.</string>
-  <string name="out_of_space">No more room on this Home screen.</string>
-  <string name="hotseat_out_of_space">No more room in the Favorites tray</string>
-  <string name="invalid_hotseat_item">This widget is too large for the Favorites tray</string>
-  <string name="shortcut_installed">Shortcut \"<xliff:g id="name" example="Browser">%s</xliff:g>\" created.</string>
-  <string name="shortcut_uninstalled">Shortcut \"<xliff:g id="name" example="Browser">%s</xliff:g>\" was removed.</string>
-  <string name="shortcut_duplicate">Shortcut \"<xliff:g id="name" example="Browser">%s</xliff:g>\" already exists.</string>
-  <string name="title_select_shortcut">Choose shortcut</string>
-  <string name="title_select_application">Choose app</string>
-  <string name="all_apps_button_label">Apps</string>
-  <string name="all_apps_home_button_label">Home</string>
+  <string name="completely_out_of_space">홈 화면에 더 이상 공간 이 없습니다.</string>
+  <string name="out_of_space">이 홈 화면에 공간이 없습니다.</string>
+  <string name="hotseat_out_of_space">즐겨찾기 에 공간이 더 이상 없습니다.</string>
+  <string name="invalid_hotseat_item">이 위젯 즐겨찾기가 큽니다.</string>
+  <string name="shortcut_installed">바로가기\"<xliff:g id="이름" example="브라우저">%s</xliff:g>\" 만듭니다.</string>
+  <string name="shortcut_uninstalled">바로가기\"<xliff:g id="이름" example="브라우저">%s</xliff:g>\" 제거 됬습니다.</string>
+  <string name="shortcut_duplicate">바로가기 \"<xliff:g id="이름" example="브라우저">%s</xliff:g>\"가 이미 있습니다.</string>
+  <string name="title_select_shortcut">바로가기를 선택 하시겠습니까?</string>
+  <string name="title_select_application">어플을 선택합니다.</string>
+  <string name="all_apps_button_label">어플 앱</string>
+  <string name="all_apps_home_button_label">홈</string>
   <string name="delete_zone_label_workspace">제거</string>
-  <string name="delete_zone_label_all_apps">Uninstall</string>
+  <string name="delete_zone_label_all_apps">제거 하시겠습니까?</string>
   <string name="delete_target_label">제거</string>
-  <string name="delete_target_uninstall_label">Uninstall</string>
-  <string name="info_target_label">App info</string>
+  <string name="delete_target_uninstall_label">제거 하시겠습니까?</string>
+  <string name="info_target_label">앱 정보</string>
   <string name="accessibility_search_button">Search</string>
-  <string name="accessibility_voice_search_button">Voice Search</string>
-  <string name="accessibility_all_apps_button">Apps</string>
+  <string name="accessibility_voice_search_button">음성 검색</string>
+  <string name="accessibility_all_apps_button">어플 앱</string>
   <string name="accessibility_delete_button">제거</string>
-  <string name="delete_zone_label_all_apps_system_app">Uninstall update</string>
-  <string name="cab_menu_delete_app">Uninstall app</string>
-  <string name="cab_menu_app_info">App details</string>
-  <string name="cab_app_selection_text">1 app selected</string>
-  <string name="cab_widget_selection_text">1 widget selected</string>
-  <string name="cab_folder_selection_text">1 folder selected</string>
-  <string name="cab_shortcut_selection_text">1 shortcut selected</string>
-  <string name="permlab_install_shortcut">install shortcuts</string>
-  <string name="permdesc_install_shortcut">Allows an app to add
-        shortcuts without user intervention.</string>
-  <string name="permlab_uninstall_shortcut">uninstall shortcuts</string>
-  <string name="permdesc_uninstall_shortcut">Allows the app to remove
-        shortcuts without user intervention.</string>
-  <string name="permlab_read_settings">read Home settings and shortcuts</string>
-  <string name="permdesc_read_settings">Allows the app to read the settings and
-        shortcuts in Home.</string>
-  <string name="permlab_write_settings">write Home settings and shortcuts</string>
-  <string name="permdesc_write_settings">Allows the app to change the settings and
-        shortcuts in Home.</string>
-  <string name="gadget_error_text">Problem loading widget</string>
-  <string name="uninstall_system_app_text">This is a system app and can\'t be uninstalled.</string>
-  <string name="dream_name">Rocket Launcher</string>
-  <string name="folder_hint_text">Unnamed Folder</string>
-  <string name="workspace_description_format">Home screen %1$d</string>
-  <string name="default_scroll_format">Page %1$d of %2$d</string>
-  <string name="workspace_scroll_format">Home screen %1$d of %2$d</string>
-  <string name="apps_customize_apps_scroll_format">Apps page %1$d of %2$d</string>
-  <string name="apps_customize_widgets_scroll_format">Widgets page %1$d of %2$d</string>
-  <string name="first_run_cling_title">Welcome</string>
-  <string name="first_run_cling_description">Make yourself at home.</string>
-  <string name="first_run_cling_create_screens_hint">Create more screens for apps and folders</string>
-  <string name="migration_cling_title">Copy your app icons</string>
-  <string name="migration_cling_description">Import icons and folders from your old Home screens?</string>
-  <string name="migration_cling_copy_apps">COPY ICONS</string>
-  <string name="migration_cling_use_default">START FRESH</string>
-  <string name="workspace_cling_title">Organize your space</string>
-  <string name="workspace_cling_move_item">Touch &amp; hold background to manage wallpaper, widgets and settings.</string>
-  <string name="folder_cling_title">Here\'s a folder</string>
-  <string name="folder_cling_create_folder">To create one like this, touch &amp; hold an app, then move it over another.</string>
+  <string name="delete_zone_label_all_apps_system_app">업데이트를 제거할까요?</string>
+  <string name="cab_menu_delete_app">앱 제거</string>
+  <string name="cab_menu_app_info">응용 프로그램 세부 정보</string>
+  <string name="cab_app_selection_text">1 애플 리 케이 션 선택</string>
+  <string name="cab_widget_selection_text">선택 1 위젯</string>
+  <string name="cab_folder_selection_text">1 폴더 선택</string>
+  <string name="cab_shortcut_selection_text">선택 1 바로 가기</string>
+  <string name="permlab_install_shortcut">바로 가기를 설치합니다</string>
+  <string name="permdesc_install_shortcut">앱을 사용자의 개입 없이 바로 가기를 추가할 수 있습니다.</string>
+  <string name="permlab_uninstall_shortcut">바로 가기 제거</string>
+  <string name="permdesc_uninstall_shortcut">사용자의 개입 없이 바로 가기를 제거 하려면 응용 프로그램을 수 있습니다.</string>
+  <string name="permlab_read_settings">읽기 홈 설정 및 바로 가기</string>
+  <string name="permdesc_read_settings">애플 리 케이 션을 설정 및 가정에서 바로 가기 키를 읽을 수 있습니다.</string>
+  <string name="permlab_write_settings">홈 설정 및 단축키</string>
+  <string name="permdesc_write_settings">애플 리 케이 션을 설정 및 가정에서 바로 가기 키를 읽을 수 있습니다.</string>
+  <string name="gadget_error_text">문제가 로딩 위젯</string>
+  <string name="uninstall_system_app_text">이 시스템 애플 리 케이 션을 제거할 수 없습니다.</string>
+  <string name="dream_name">로켓 발사기</string>
+  <string name="folder_hint_text">이름 없는 폴더</string>
+  <string name="workspace_description_format">홈 화면 %1$d</string>
+  <string name="default_scroll_format">%2$d 페이지 %1$d</string>
+  <string name="workspace_scroll_format">%2$d의 홈 화면 %1$d</string>
+  <string name="apps_customize_apps_scroll_format">애플 리 케이 션 페이지 %1$d of %2$d</string>
+  <string name="apps_customize_widgets_scroll_format">위젯 페이지%1$d of %2$d</string>
+  <string name="first_run_cling_title">환영합니다.</string>
+  <string name="first_run_cling_description">집에서 만드십시오.</string>
+  <string name="first_run_cling_create_screens_hint">애플 리 케이 션 및 폴더에 대 한 더 많은 화면을 만들</string>
+  <string name="migration_cling_title">앱 아이콘 복사</string>
+  <string name="migration_cling_description">이전 홈 화면에서 아이콘과 폴더를 가져올까요?</string>
+  <string name="migration_cling_copy_apps">아이콘 복사</string>
+  <string name="migration_cling_use_default">새로 시작</string>
+  <string name="workspace_cling_title">당신의 공간 구성</string>
+  <string name="workspace_cling_move_item">배경 바탕 화면, 위젯 및 설정 관리를 길게 터치 합니다.</string>
+  <string name="folder_cling_title">여기는 폴더</string>
+  <string name="folder_cling_create_folder">만드는이 같은 것, 터치 및 애플 리 케이 션을 잡고 이동 다른.</string>
   <string name="cling_dismiss">예</string>
-  <string name="dummy_custom_cling_error_message">Error: custom workspace layout passed in but custom cling was not overwritten</string>
-  <string name="folder_opened">Folder opened, <xliff:g id="width" example="5">%1$d</xliff:g> by <xliff:g id="height" example="3">%2$d</xliff:g></string>
-  <string name="folder_tap_to_close">Touch to close folder</string>
-  <string name="folder_tap_to_rename">Touch to save rename</string>
-  <string name="folder_closed">Folder closed</string>
-  <string name="folder_renamed">Folder renamed to <xliff:g id="name" example="Games">%1$s</xliff:g></string>
-  <string name="folder_name_format">Folder: <xliff:g id="name" example="Games">%1$s</xliff:g></string>
+  <string name="dummy_custom_cling_error_message">오류: 사용자 정의 작업 영역 레이아웃 전달 하지만 사용자 정의 집착 하지 덮어씀</string>
+  <string name="folder_opened">폴더, <xliff:g id="height" example="3"> %1$d </xliff:g> d <xliff:g id="width" example="5"> %2$d </xliff:g></string>
+  <string name="folder_tap_to_close">터치 폴더를 닫으려면</string>
+  <string name="folder_tap_to_rename">터치 이름 변경 하기</string>
+  <string name="folder_closed">닫힌 폴더</string>
+  <string name="folder_renamed">폴더 <xliff:g id="name" example="Games"> %1$s </xliff:g>로</string>
+  <string name="folder_name_format">폴더: <xliff:g id="name" example="Games"> %1$s </xliff:g></string>
   <string name="debug_memory_activity">* HPROF</string>
   <string name="widget_button_text">위젯</string>
-  <string name="wallpaper_button_text">Wallpapers</string>
+  <string name="wallpaper_button_text">배경화면</string>
   <string name="settings_button_text">설정</string>
 </resources>
