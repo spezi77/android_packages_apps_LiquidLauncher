@@ -75,7 +75,7 @@
   <string name="permdesc_write_settings">允許應用程式更改主畫面中的設定和捷徑。</string>
   <string name="gadget_error_text">載入小工具時發生問題</string>
   <string name="uninstall_system_app_text">這是系統應用程式，無法將其解除安裝。</string>
-  <string name="dream_name">Rocket Launcher</string>
+  <string name="dream_name">Rocket 啟動器</string>
   <string name="folder_hint_text">未命名的資料夾</string>
   <string name="workspace_description_format">主畫面 %1$d</string>
   <string name="default_scroll_format">第 %1$d 頁，共 %2$d 頁</string>

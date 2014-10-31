@@ -32,7 +32,7 @@
   <string name="external_drop_widget_pick_title">Choose widget to create</string>
   <string name="rename_folder_label">Folder name</string>
   <string name="rename_folder_title">Rename folder</string>
-  <string name="rename_action">OK</string>
+  <string name="rename_action">У реду</string>
   <string name="cancel_action">Cancel</string>
   <string name="menu_item_add_item">Add to Home screen</string>
   <string name="group_applications">Apps</string>
@@ -97,7 +97,7 @@
   <string name="workspace_cling_move_item">Touch &amp; hold background to manage wallpaper, widgets and settings.</string>
   <string name="folder_cling_title">Here\'s a folder</string>
   <string name="folder_cling_create_folder">To create one like this, touch &amp; hold an app, then move it over another.</string>
-  <string name="cling_dismiss">OK</string>
+  <string name="cling_dismiss">У реду</string>
   <string name="dummy_custom_cling_error_message">Error: custom workspace layout passed in but custom cling was not overwritten</string>
   <string name="folder_opened">Folder opened, <xliff:g id="width" example="5">%1$d</xliff:g> by <xliff:g id="height" example="3">%2$d</xliff:g></string>
   <string name="folder_tap_to_close">Touch to close folder</string>
@@ -108,5 +108,5 @@
   <string name="debug_memory_activity">* HPROF</string>
   <string name="widget_button_text">Widgets</string>
   <string name="wallpaper_button_text">Wallpapers</string>
-  <string name="settings_button_text">Settings</string>
+  <string name="settings_button_text">Подешавања</string>
 </resources>

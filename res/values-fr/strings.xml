@@ -42,9 +42,9 @@
   <string name="out_of_space">Plus d\'espace sur cet écran d\'accueil.</string>
   <string name="hotseat_out_of_space">Plus de place dans la barre de favoris</string>
   <string name="invalid_hotseat_item">Ce widget est trop grand pour la barre de favoris</string>
-  <string name="shortcut_installed">Shortcut \"<xliff:g id="name" example="Browser">%s</xliff:g>\" created.</string>
-  <string name="shortcut_uninstalled">Shortcut \"<xliff:g id="name" example="Browser">%s</xliff:g>\" was removed.</string>
-  <string name="shortcut_duplicate">Shortcut \"<xliff:g id="name" example="Browser">%s</xliff:g>\" already exists.</string>
+  <string name="shortcut_installed">Raccourci \"<xliff:g id="name" example="Browser">%s</xliff:g>\" créé.</string>
+  <string name="shortcut_uninstalled">Raccourci \"<xliff:g id="name" example="Browser">%s</xliff:g>\" supprimé.</string>
+  <string name="shortcut_duplicate">Raccourci \"<xliff:g id="name" example="Browser">%s</xliff:g>\" déjà existant.</string>
   <string name="title_select_shortcut">Choisissez un raccourci</string>
   <string name="title_select_application">Choisissez l\'app</string>
   <string name="all_apps_button_label">Apps</string>
